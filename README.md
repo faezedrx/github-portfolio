@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
     - **Minimum Star Count**: Use the slider to filter repositories by the minimum number of stars.
 4. Explore the interactive charts and repository list.
 
-** or check [this](https://app-portfolio.streamlit.app/) website**
+**or check [this](https://app-portfolio.streamlit.app/) website**
 
 ## 🎨 Customization
 
